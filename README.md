@@ -1,4 +1,4 @@
-# Sass Starter Pack
+# Bulma Starter Pack
 
 A light package for compiling Sass and running a dev server
 
@@ -10,7 +10,7 @@ A light package for compiling Sass and running a dev server
 
 ### Installation
 
-Install the dependencies (gulp, gulp-sass, browser-sync)
+Install the dependencies (gulp, gulp-sass, browser-sync, bulma)
 
 ```sh
 $ npm install
